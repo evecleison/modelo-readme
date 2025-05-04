@@ -34,6 +34,7 @@ A descrição é uma parte essencial do projeto. Ela deve ser concisa, mas infor
 ## Demonstração da aplicação
 
 Link do deploy da aplicação: https://nome-usuario.github.io/nome-repositorio/
+
 ou pode ser assim: 👉  [Veja o projeto em funcionamento](https://nome-usuario.github.io/nome-repositorio/)
 
-Se houver deploy, pode colocar imagens ou gifs.
+Se não houver deploy, pode colocar imagens ou gifs.
