@@ -1,4 +1,5 @@
 # Título do projeto
+
 ![Status do Projeto](https://img.shields.io/badge/Status-Ativo-green)
 ![License](https://img.shields.io/github/license/usuário/repositorio.svg)
 ![Forks](https://img.shields.io/github/forks/usuário/repositorio.svg)
@@ -11,5 +12,12 @@
 ![Exemplo de imagem](./imagens/capa.png)
 
 > Status do projeto: ✔️ Em desenvolvimento / ⚠️ Em manutenção / ✅ Concluído
+
+## Índice
+
+- [Título](#titulo)
+- [Descrição do projeto](#descrição-do-projeto)
+- [Instalação e execução](#instalação-e-execução)
+- [Licença](#licença)
 
 Template de README simples e personalizável para repositórios.
