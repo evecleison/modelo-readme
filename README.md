@@ -117,3 +117,10 @@ Abaixo está a estrutura de pastas do projeto:
 ├── .gitignore          # Arquivos e pastas ignorados pelo Git
 └── README.md           # Este arquivo
 ```
+
+## Tecnologias utilizadas
+
+- Tecnologia 1
+- Tecnologia 2
+- Tecnologia 3
+- Tecnologia 4
