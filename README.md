@@ -8,4 +8,6 @@
 ![Stars](https://img.shields.io/github/stars/usuário/repositorio.svg)
 ![Testes](https://img.shields.io/github/actions/workflow/status/usuário/repositorio/testes.yml?branch=main)
 
+![Exemplo de imagem](./imagens/readme.png)
+
 Template de README simples e personalizável para repositórios.
