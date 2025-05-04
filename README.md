@@ -171,5 +171,8 @@ Se tiver apenas uma ideia ou sugestão, fique à vontade para abrir uma issue co
 ### Colaboradores
 Liste aqui com imagens os contribuintes/colaboradores.
 
+## Autores
 
+- [Evecleison](https://github.com/evecleison)
+- [Nome](https://www.github.com/nome-usuario)
 
