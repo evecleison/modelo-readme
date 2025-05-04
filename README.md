@@ -53,6 +53,8 @@ ou pode ser assim: 👉  [Veja o projeto em funcionamento](https://nome-usuario.
 
 ou se não houver deploy, pode colocar imagens ou gifs.
 
+[🔝 Voltar ao topo](#meu-projeto)
+
 ## Pré-requisitos
 
 Antes de executar o projeto, verifique se você tem os seguintes itens:
