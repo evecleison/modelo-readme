@@ -144,3 +144,32 @@ Se você tiver dúvidas, encontrar problemas ou quiser sugerir melhorias, entre 
 - Reportar issues: [Abrir uma issue](https://github.com/seuusuario/seurepositorio/issues)  
 - Comunidade no Discord: [Entrar no servidor](https://discord.gg/link-do-servidor)
 - LinkedIn: [Seu Nome](https://www.linkedin.com/in/seu-nome/)
+
+## Contribuindo
+
+Contribuir é uma ótima forma de tornar este projeto ainda melhor, além de fortalecer a comunidade open source! Toda ajuda é bem-vinda, seja com sugestões, correções, melhorias ou novas funcionalidades.
+
+Se quiser colaborar, siga este passo a passo:
+
+1. Faça um **fork** deste repositório.
+2. Crie uma nova branch para a sua funcionalidade ou correção:
+   ```bash
+   git checkout -b minha-nova-funcionalidade
+   ```
+3. Realize os ajustes desejados e faça o commit:
+   ```bash
+   git commit -m "Adiciona nova funcionalidade"
+   ```
+4. Envie as alterações para o seu fork:
+   ```bash
+   git push origin minha-nova-funcionalidade
+   ```
+5. Abra um Pull Request explicando suas alterações.
+
+Se tiver apenas uma ideia ou sugestão, fique à vontade para abrir uma issue com a tag melhoria.
+
+### Colaboradores
+Liste aqui com imagens os contribuintes/colaboradores.
+
+
+
