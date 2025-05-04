@@ -124,3 +124,14 @@ Abaixo está a estrutura de pastas do projeto:
 - Tecnologia 2
 - Tecnologia 3
 - Tecnologia 4
+
+## Roadmap
+
+- Implementar autenticação com OAuth (Google/GitHub)
+- Adicionar paginação à lista de usuários
+- Criar uma interface responsiva para dispositivos móveis
+- Suporte a temas (claro/escuro)
+- Testes automatizados com Jest
+- Internacionalização (i18n) com suporte a inglês e espanhol
+
+Basicamente, apresenta os planos futuros do projeto.
