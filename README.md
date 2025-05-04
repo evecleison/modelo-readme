@@ -73,3 +73,21 @@ Isso foi um exemplo de uma lista de pré-requisitos.
 ## Uso
 
 Esta seção é útil para fornecer instruções e exemplos que ajudem usuários e contribuidores a utilizar o projeto corretamente. Se necessário, inclua detalhes adicionais sobre o funcionamento da aplicação e como ela deve ser usada. Também é possível adicionar elementos visuais, como imagens ou GIFs, para ilustrar a interface ou a organização do projeto.
+
+## Testes
+
+Para rodar os testes, siga os passos abaixo:
+
+1. Certifique-se de que todas as dependências estão instaladas:
+```bash
+npm install
+```
+2. Execute os testes com o seguinte comando:
+```bash
+npm test
+```
+3. Você também pode verificar o relatório de cobertura com:
+```bash
+npm run test:coverage
+```
+Basicamente é só colocar o passo a passo para realizar os testes.
