@@ -14,8 +14,8 @@
 
 ## Índice
 
-- [Título](#titulo-do-projeto)
-- [Descrição do projeto](#descrição-do-projeto)
+- [Título do projeto](#titulo-do-projeto)
+- [Descrição do projeto](#descriçao-do-projeto)
 - [Funcionalidades](#funcionalidades)
 - [Demonstração da aplicação](#demonstraçao-da-aplicaçao)
 - [Pré-requisitos](#pre-requisitos)
