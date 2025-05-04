@@ -176,3 +176,8 @@ Liste aqui com imagens os contribuintes/colaboradores.
 - [Evecleison](https://github.com/evecleison)
 - [Nome](https://www.github.com/nome-usuario)
 
+## Créditos
+
+- Ícones fornecidos por [Font Awesome](https://fontawesome.com)
+- Template base inspirado no projeto [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+
