@@ -22,7 +22,9 @@
 
 ## Descrição de projeto
 
-A descrição é uma parte essencial do projeto. Ela deve ser concisa, mas informativa, explicando o que o projeto faz, para que serve e por que é relevante. É importante destacar a função principal da aplicação, o público-alvo e o problema que o projeto se propõe a resolver , focando nos aspectos mais importantes.
+A descrição é uma parte essencial do projeto. Ela deve ser concisa, mas informativa, explicando o que o projeto faz, para que serve e por que é relevante. É importante destacar a função principal da aplicação, o público-alvo e o problema que o projeto se propõe a resolver, focando nos aspectos mais importantes.
+
+Cada projeto é único, por isso é importante avaliar quais seções realmente são necessários para colocar no seu README.
 
 ## Funcionalidades
 
@@ -180,4 +182,9 @@ Liste aqui com imagens os contribuintes/colaboradores.
 
 - Ícones fornecidos por [Font Awesome](https://fontawesome.com)
 - Template base inspirado no projeto [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+
+## Licença
+
+Este projeto está sob a licença MIT.  
+Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
