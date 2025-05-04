@@ -31,7 +31,7 @@
 - [Créditos](#créditos)
 - [Licença](#licença)
 
-## Descrição de projeto
+## Descrição do projeto
 
 A descrição é uma parte essencial do projeto. Ela deve ser concisa, mas informativa, explicando o que o projeto faz, para que serve e por que é relevante. É importante destacar a função principal da aplicação, o público-alvo e o problema que o projeto se propõe a resolver, focando nos aspectos mais importantes.
 
