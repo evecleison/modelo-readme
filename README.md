@@ -17,7 +17,19 @@
 
 - [Título](#titulo-do-projeto)
 - [Descrição do projeto](#descrição-do-projeto)
+- [Funcionalidades](#funcionalidades)
+- [Demonstração da aplicação](#demonstraçao-da-aplicaçao)
+- [Pré-requisitos](#pre-requisitos)
 - [Instalação e execução](#instalação-e-execução)
+- [Uso](#uso)
+- [Testes](#testes)
+- [Estrutura de pastas](#estrutura-de-pastas)
+- [Tecnologias utilizadas](#tecnologias-utilizadas)
+- [Roadmap](#roadmap)
+- [Contato](#contato)
+- [Contribuindo](#contribuindo)
+- [Autores](#autores)
+- [Créditos](#creditos)
 - [Licença](#licença)
 
 ## Descrição de projeto
