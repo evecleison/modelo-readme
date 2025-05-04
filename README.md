@@ -10,7 +10,6 @@
 
 ![Exemplo de imagem](./imagens/capa.png)
 
-## Status do Projeto
-✔️ ⚠️ (concluido, em desenvolvimento, etc)
+> ✔️ ⚠️ (concluido, em desenvolvimento, etc)
 
 Template de README simples e personalizável para repositórios.
