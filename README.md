@@ -135,3 +135,12 @@ Abaixo está a estrutura de pastas do projeto:
 - Internacionalização (i18n) com suporte a inglês e espanhol
 
 Basicamente, apresenta os planos futuros do projeto.
+
+## Contato 
+
+Se você tiver dúvidas, encontrar problemas ou quiser sugerir melhorias, entre em contato pelos canais abaixo:
+
+- Email: seuemail@exemplo.com  
+- Reportar issues: [Abrir uma issue](https://github.com/seuusuario/seurepositorio/issues)  
+- Comunidade no Discord: [Entrar no servidor](https://discord.gg/link-do-servidor)
+- LinkedIn: [Seu Nome](https://www.linkedin.com/in/seu-nome/)
