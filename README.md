@@ -91,3 +91,29 @@ npm test
 npm run test:coverage
 ```
 Basicamente é só colocar o passo a passo para realizar os testes.
+
+## 📂 Estrutura de pastas
+
+Abaixo está a estrutura de pastas do projeto:
+
+```bash
+├── src/                # Código-fonte do aplicativo
+│   ├── controllers/    # Lógica de controle de rotas e ações
+│   ├── models/         # Modelos de dados (ex: Mongoose ou Sequelize)
+│   ├── routes/         # Definição das rotas do aplicativo
+│   ├── services/       # Funções auxiliares e serviços de backend
+│   ├── utils/          # Funções utilitárias e helpers
+│   └── app.js          # Arquivo principal do servidor
+├── tests/              # Testes automatizados
+│   ├── unit/           # Testes unitários
+│   ├── integration/    # Testes de integração
+│   └── e2e/            # Testes de ponta a ponta
+├── public/             # Arquivos públicos (se necessário, como imagens ou fontes)
+│   ├── images/         # Imagens do site
+│   └── css/            # Estilos globais
+├── config/             # Arquivos de configuração (ex: DB, API keys)
+├── package-lock.json   # Arquivo de bloqueio de dependências (garante consistência)
+├── package.json        # Arquivo de configuração do Node.js (dependências, scripts, etc.)
+├── .gitignore          # Arquivos e pastas ignorados pelo Git
+└── README.md           # Este arquivo
+```
