@@ -30,3 +30,9 @@ A descrição é uma parte essencial do projeto. Ela deve ser concisa, mas infor
 - Funcionalidade 2
 - Funcionalidade 3
 - Funcionalidade 4
+
+## Demonstração da aplicação
+
+Link do deploy da aplicação: https://nome-usuario.github.io/nome-repositorio/
+ou pode ser assim: 👉  [Veja o projeto em funcionamento](https://nome-usuario.github.io/nome-repositorio/)
+Usando gif: ![Demonstração do App](./public/nome-arquivo,gif)
