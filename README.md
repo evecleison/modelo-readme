@@ -70,3 +70,6 @@ Isso foi um exemplo de uma lista de pré-requisitos.
    ```bash
    http://localhost:5173
    ```
+## Uso
+
+Esta seção é útil para fornecer instruções e exemplos que ajudem usuários e contribuidores a utilizar o projeto corretamente. Se necessário, inclua detalhes adicionais sobre o funcionamento da aplicação e como ela deve ser usada. Também é possível adicionar elementos visuais, como imagens ou GIFs, para ilustrar a interface ou a organização do projeto.
