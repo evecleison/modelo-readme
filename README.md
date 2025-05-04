@@ -44,8 +44,10 @@ ou se não houver deploy, pode colocar imagens ou gifs.
 Antes de executar o projeto, verifique se você tem os seguintes itens:
 
 - [Node.js](https://nodejs.org/) (versão 18.0 ou superior)
-- [NPM](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/)
+- [NPM](https://www.npmjs.com/)
 - [Git](https://git-scm.com/)
 - [Docker](https://www.docker.com/) (opcional, caso use containers)
 - Editor de código, como o [Visual Studio Code](https://code.visualstudio.com/)
 - Sistema operacional compatível: Windows ou Linux
+
+Isso foi um exemplo de uma lista de pré-requisitos.
