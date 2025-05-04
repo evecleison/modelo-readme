@@ -14,11 +14,11 @@
 
 ## Índice
 
-- [Título do projeto](#titulo-do-projeto)
-- [Descrição do projeto](#descriçao-do-projeto)
+- [Título do projeto](#título-do-projeto)
+- [Descrição do projeto](#descrição-do-projeto)
 - [Funcionalidades](#funcionalidades)
-- [Demonstração da aplicação](#demonstraçao-da-aplicaçao)
-- [Pré-requisitos](#pre-requisitos)
+- [Demonstração da aplicação](#demonstração-da-aplicação)
+- [Pré-requisitos](#pré-requisitos)
 - [Instalação e execução](#instalação-e-execução)
 - [Uso](#uso)
 - [Testes](#testes)
@@ -28,7 +28,7 @@
 - [Contato](#contato)
 - [Contribuindo](#contribuindo)
 - [Autores](#autores)
-- [Créditos](#creditos)
+- [Créditos](#créditos)
 - [Licença](#licença)
 
 ## Descrição de projeto
