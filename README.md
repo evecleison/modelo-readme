@@ -16,8 +16,8 @@
 ## Índice
 
 - [Título](#titulo)
-- [Descrição do projeto](#descrição-do-projeto)
-- [Instalação e execução](#instalação-e-execução)
-- [Licença](#licença)
+- [Descrição do projeto](##descrição-do-projeto)
+- [Instalação e execução](##instalação-e-execução)
+- [Licença](##licença)
 
 Template de README simples e personalizável para repositórios.
