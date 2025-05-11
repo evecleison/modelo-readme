@@ -197,6 +197,6 @@ Liste aqui com imagens os contribuintes/colaboradores.
 
 ## Licença
 
-Este projeto está sob a licença MIT.  
+Este projeto está sob a Unlicense.  
 Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
